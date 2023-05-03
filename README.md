@@ -12,6 +12,8 @@ Please read the license agreement before you use the app. Clicking the app which
 
 Depend on whether there are a real demand, the Peaks project is considering developing a new version that supports billions of rows and is 5X to 10X faster.
 
+![Web Pivot Table](https://github.com/hkpeaks/peaks-framework/blob/main/WebPivotTable/Folder.png)
+
 https://youtu.be/yfJnYQBJ5ZY
 
 [![Web Pivot Table](https://github.com/hkpeaks/peaks-framework/blob/main/WebPivotTable/WebPivotTable.png)](http://www.youtube.com/watch?v=yfJnYQBJ5ZY "Web Pivot Table")
