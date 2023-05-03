@@ -2,7 +2,7 @@
 
 The author created a .NET Web Pivot Table before using Golang. He is considering whether to re-implement this visual into Peaks DataFrame. The last bug fix was made on August 3rd, 2020. On April 30th, 2023, the author published this project again. 
 
-If you want to use a ready to use version of the app, please download it from the "Releases" section of this page.
+If you want to use a ready to use version of the app, please download it from the "Releases" section of this page. How to use, please visit https://www.youtube.com/@accountingetl5158/videos
 
 If you want to built the app from source code, please download it from https://github.com/hkpeaks/peaks-framework/tree/main/WebPivotTable.
 
