@@ -4,7 +4,7 @@ The author created a .NET Web Pivot Table before using Golang. He is considering
 
 If you want to use a ready to use version of the app, please download it from the "Releases" section of this page. How to use, please visit https://www.youtube.com/@accountingetl5158/videos
 
-If you want to built the app from source code, please download it from https://github.com/hkpeaks/peaks-framework/tree/main/WebPivotTable.
+If you want to built the app from source code, please download it from https://github.com/hkpeaks/peaks-framework/tree/main/PeaksDataFrameViewer.
 
 Please note that you are authorized to amend the source code for your own use but not authorized to edit the download app.
 
