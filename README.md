@@ -28,7 +28,9 @@ Depend on whether there are a real demand, the Peaks project is considering deve
 
 If it is not running properly, please check whether your machine has installed .net 4.72 or above. This is why the author moved to Go - no need to install .net to support an app.
 
-![Web Pivot Table](https://github.com/hkpeaks/peaks-framework/blob/main/PeaksDataFrameViewer/InstalledFolder.png)
+<p align="center">
+<img src="https://github.com/hkpeaks/peaks-framework/blob/main/PeaksDataFrameViewer/InstalledFolder.png" width=50% height=50%>
+</p>
 
 https://youtu.be/yfJnYQBJ5ZY
 
