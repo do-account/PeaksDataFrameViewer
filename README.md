@@ -12,7 +12,7 @@ Please read the license agreement before you use the app. Clicking the app which
 
 Depend on whether there are a real demand, the Peaks project is considering developing a new version that supports billions of rows and is 5X to 10X faster.
 
-### How-to Run the App
+### How-to Run the App and Manage its Folders
 
 ➾ Once you have downloaded the app, you can unzip it and read the readme file.
 
