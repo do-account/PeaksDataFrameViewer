@@ -20,8 +20,6 @@ Depend on whether there are a real demand, the Peaks project is considering deve
 
 ➾ Finally, double click on the “uWeb.html” file to open it in your browser. Or your browser may be opened automatically without clicking the file.
 
-➾ If you want to test on your data, please drag and drop from desktop to the browser or copy it to the uSpace folder (this is an upload folder). After you view it on the browser, it will be moved to uSpace\importedFile. 
-
 ➾ To test your data, you can either drag and drop it from your desktop to the browser or copy it to the uSpace folder (which is an upload folder). Once you view it on the browser, it will be moved to uSpace\importedFile.
 
 ➾ uSpace\distinctDB contained serialized dataset of the in-memory dataset. 
