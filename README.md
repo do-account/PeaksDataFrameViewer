@@ -24,9 +24,9 @@ Depend on whether there are a real demand, the Peaks project is considering deve
 
 ➾ To test your data, you can either drag and drop it from your desktop to the browser or copy it to the uSpace folder (which is an upload folder). Once you view it on the browser, it will be moved to uSpace\importedFile.
 
-=> uSpace\distinctDB contained serialized dataset of the in-memory dataset. 
+➾ uSpace\distinctDB contained serialized dataset of the in-memory dataset. 
 
-=> You may need to clean the files inside uSpace\distinctDB\Primary and uSpace\importedFile when it become sizable becuase uSpace\importedFile keep version control for every data import.
+➾ You may need to clean the files inside uSpace\distinctDB\Primary and uSpace\importedFile when it become sizable becuase uSpace\importedFile keep version control for every data import.
 
 If it is not running properly, please check whether your machine has installed .net 4.72 or above. This is why the author moved to Go - no need to install .net to support an app.
 
@@ -35,6 +35,8 @@ If it is not running properly, please check whether your machine has installed .
 https://youtu.be/yfJnYQBJ5ZY
 
 [![Web Pivot Table](https://github.com/hkpeaks/peaks-framework/blob/main/PeaksDataFrameViewer/WebPivotTable.png)](http://www.youtube.com/watch?v=yfJnYQBJ5ZY "Web Pivot Table")
+
+### Features
 
 ➾ using C#, Vanilla JavaScript and W3.css for an integrated frontend to backend Web development, it do not implement any javascript framework or library 
 
