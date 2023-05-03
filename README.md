@@ -26,6 +26,8 @@ Depend on whether there are a real demand, the Peaks project is considering deve
 
 => uSpace\distinctDB contained serialized dataset of the in-memory dataset. 
 
+=> You may need to clean the files inside uSpace\distinctDB\Primary and uSpace\importedFile when it become sizable becuase uSpace\importedFile keep version control for every data import.
+
 If it is not running properly, please check whether your machine has installed .net 4.72 or above. This is why the author moved to Go - no need to install .net to support an app.
 
 ![Web Pivot Table](https://github.com/hkpeaks/peaks-framework/blob/main/PeaksDataFrameViewer/InstalledFolder.png)
