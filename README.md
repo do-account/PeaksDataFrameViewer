@@ -12,7 +12,9 @@ Please read the license agreement before you use the app. Clicking the app which
 
 Depend on whether there are a real demand, the Peaks project is considering developing a new version that supports billions of rows and is 5X to 10X faster.
 
-![Web Pivot Table](https://github.com/hkpeaks/peaks-framework/blob/main/WebPivotTable/Folder.png)
+After you have downloaded the app, you can unzip it and read the readme file. Then you can double click on the app and find the folder below. Finally, double click on the uWeb.html file to open it in your browser. If it is not running properly, please check whether your machine has installed .net 4.72 or above. This is why the author moved to Go - no need to install .net to support an app.
+
+![Web Pivot Table](https://github.com/hkpeaks/peaks-framework/blob/main/WebPivotTable/InstalledFolder.png)
 
 https://youtu.be/yfJnYQBJ5ZY
 
