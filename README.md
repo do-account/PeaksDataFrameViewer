@@ -1,6 +1,15 @@
 ## Web Pivot Table for Peaks DataFrame
 
-The author created a .NET project called “WebPivotTable” before using Golang. He is considering whether to re-implement this visual into Peaks DataFrame. The original project’s source code can be found above. The last bug fix was made on August 3rd, 2020. On April 30th, 2023, the author published this project again. After downloading and building the runtime using Visual Studio 2022 Community Version, a folder called “youFast” was generated. Clicking a youFast which will start a websocket server and open your browser with default data. The app supports csv file only. The websocket runs on local host “ws://127.0.0.1:5000/”. The websocket is an open source and can be downloaded from https://github.com/statianzo/Fleck.
+The author created a .NET project called “WebPivotTable” before using Golang. He is considering whether to re-implement this visual into Peaks DataFrame. The original project’s source code can be found above. The last bug fix was made on August 3rd, 2020. On April 30th, 2023, the author published this project again. 
+
+If you want to use a ready version, please download it from the "Releases" section of this page.
+If you want to built the runtime from source code, please download it from https://github.com/hkpeaks/peaks-framework/tree/main/WebPivotTable.
+
+Please note that you are authorized to amend the source code for your own use but not authorized to edit the download app.
+
+Please read the license agreement before you use the app. Clicking the app which will start a websocket server and open your browser with default data. The app supports csv file only with maximum of 50 Million Rows given that your device has installed 32GB RAM. The websocket runs on local host “ws://127.0.0.1:5000/”. The websocket is an open source and can be downloaded from https://github.com/statianzo/Fleck.
+
+Depend on whether there are a real demand, the Peaks project is considering developing a new version that supports billions of rows and is 5X to 10X faster.
 
 https://youtu.be/yfJnYQBJ5ZY
 
