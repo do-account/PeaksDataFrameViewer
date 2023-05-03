@@ -22,11 +22,11 @@ Depend on whether there are a real demand, the Peaks project is considering deve
 
 If it is not running properly, please check whether your machine has installed .net 4.72 or above. This is why the author moved to Go - no need to install .net to support an app.
 
-![Web Pivot Table](https://github.com/hkpeaks/peaks-framework/blob/main/WebPivotTable/InstalledFolder.png)
+![Web Pivot Table](https://github.com/hkpeaks/peaks-framework/blob/main/PeaksDataFrameViewer/InstalledFolder.png)
 
 https://youtu.be/yfJnYQBJ5ZY
 
-[![Web Pivot Table](https://github.com/hkpeaks/peaks-framework/blob/main/WebPivotTable/WebPivotTable.png)](http://www.youtube.com/watch?v=yfJnYQBJ5ZY "Web Pivot Table")
+[![Web Pivot Table](https://github.com/hkpeaks/peaks-framework/blob/main/PeaksDataFrameViewer/WebPivotTable.png)](http://www.youtube.com/watch?v=yfJnYQBJ5ZY "Web Pivot Table")
 
 ➾ using C#, Vanilla JavaScript and W3.css for an integrated frontend to backend Web development, it do not implement any javascript framework or library 
 
