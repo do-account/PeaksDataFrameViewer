@@ -12,7 +12,15 @@ Please read the license agreement before you use the app. Clicking the app which
 
 Depend on whether there are a real demand, the Peaks project is considering developing a new version that supports billions of rows and is 5X to 10X faster.
 
-After you have downloaded the app, you can unzip it and read the readme file. Then you can double click on the app and find the folder below. Finally, double click on the uWeb.html file to open it in your browser. If it is not running properly, please check whether your machine has installed .net 4.72 or above. This is why the author moved to Go - no need to install .net to support an app.
+### How-to Run the App
+
+➾ Once you have downloaded the app, you can unzip it and read the readme file.
+
+➾ After that, you can double click on the app and a folder named “uSpace” and a file named “uWeb” will be generated. Sample files are simulated automatically.
+
+➾ Finally, double click on the “uWeb.html” file to open it in your browser. Or your browser may be opened automatically without clicking the file.
+
+If it is not running properly, please check whether your machine has installed .net 4.72 or above. This is why the author moved to Go - no need to install .net to support an app.
 
 ![Web Pivot Table](https://github.com/hkpeaks/peaks-framework/blob/main/WebPivotTable/InstalledFolder.png)
 
