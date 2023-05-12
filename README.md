@@ -6,13 +6,13 @@ If you want to use a ready to use version of the app, please download it from th
 
 If you want to built the app from source code, please download the above source code, in the directory ..\PeaksDataFrameViewer-main>  type dotnet build, you will see a directory "\Downloads\youFast" is created and youFast.exe inside the directory.
 
-Please read the license agreement before you use the app. Clicking the app which will start a websocket server and open your browser with default data. The app supports csv file only with maximum of 50 Million Rows given that your device has installed 32GB RAM. The websocket runs on local host “ws://127.0.0.1:5000/”. The websocket is an open source and can be downloaded from https://github.com/statianzo/Fleck.
+Clicking the youFast.exe which will start a websocket server and open your browser with default data. The app supports csv file only with maximum of 50 Million Rows given that your device has installed 32GB RAM. The websocket runs on local host “ws://127.0.0.1:5000/”. The websocket is an open source and can be downloaded from https://github.com/statianzo/Fleck.
 
 Depend on whether there are a real demand, the Peaks project is considering developing a new version that supports billions of rows and is 5X to 10X faster.
 
 ### How-to Run the App and Manage its Folders
 
-➾ Once you have downloaded the app, you can unzip it and read the readme file.
+➾ Once you have downloaded the app from the releases section, you can unzip it and read the readme file.
 
 ➾ After that, you can double click on the app and a folder named “uSpace” and a file named “uWeb” will be generated. Sample files are simulated automatically.
 
