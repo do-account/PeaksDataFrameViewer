@@ -64,5 +64,6 @@ https://youtu.be/yfJnYQBJ5ZY
 
 # About Peaks DataFrame
 
-The performance of Peaks DataFrame is 5X ~ 10X of the viewer. It extend to support billions of rows using 32GB Memory. To learn about current development of Peaks DataFrame, please visit github.com/hkpeaks/peaks-framework
+The performance of Peaks DataFrame is 5X ~ 10X of the viewer. It extend to support billions of rows using 32GB Memory. To learn about current development of Peaks DataFrame, please visit https://github.com/hkpeaks/peaks-framework
+
 
