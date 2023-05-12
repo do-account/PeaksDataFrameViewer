@@ -1,10 +1,10 @@
 ## Web Pivot Table for Peaks DataFrame
 
-The author created a .NET Web Pivot Table before using Golang. He is considering whether to re-implement this visual into Peaks DataFrame. The last bug fix was made on August 3rd, 2020. On April 30th, 2023, the author published this project again. 
+The author created a .NET Web Pivot Table (Previously known as youFast Desktop) before using Golang. He is considering whether to re-implement this visual into Peaks DataFrame. The last bug fix was made on August 3rd, 2020. On April 30th, 2023, the author published this project again. 
 
 If you want to use a ready to use version of the app, please download it from the "Releases" section of this page. How to use, please visit https://www.youtube.com/@accountingetl5158/videos
 
-If you want to built the app from source code, please download it from https://github.com/hkpeaks/peaks-framework/tree/main/PeaksDataFrameViewer.
+If you want to built the app from source code, please download the above source code, then use "dotnet build" to create the runtime.
 
 Please note that you are authorized to amend the source code for your own use but not authorized to edit the download app.
 
